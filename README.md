@@ -12,9 +12,11 @@
   </a>
 </p>
 
-<!-- Animation Typing SVG -->
+<!-- Animation Typing SVG en gras -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=27&duration=3000&pause=1000&color=238827&background=1763FF00&vCenter=true&width=500&height=46&lines=Engineering+student+at+ENSIIE;Passionate+about+AI+in+healthcare;Looking+for+an+internship+in+2027" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1000&color=0310D7E1&background=1763FF00&vCenter=true&width=500&height=46&lines=Engineering+student+at+ENSIIE;Passionate+about+AI+in+healthcare;Looking+for+an+internship+in+2027" alt="Typing SVG" />
+  </a>
 </p>
 
 Welcome to my GitHub profile! I am an engineering student at [ENSIIE](https://www.ensiie.fr/). I love Applied Mathematics, Computer Science, and Artificial Intelligence. **I am especially passionate about using AI in healthcare.**
