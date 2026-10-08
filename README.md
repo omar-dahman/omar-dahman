@@ -12,29 +12,15 @@
   </a>
 </p>
 
+<!-- Animation Typing SVG -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0077B5&width=600&lines=Engineering+student+at+ENSIIE;Passionate+about+AI+in+healthcare;Looking+for+an+internship+in+2027" alt="Typing SVG" />
+</p>
+
 Welcome to my GitHub profile! I am an engineering student at [ENSIIE](https://www.ensiie.fr/). I love Applied Mathematics, Computer Science, and Artificial Intelligence. **I am especially passionate about using AI in healthcare.**
 
-I am looking for a 3 to 4-month internship starting in May 2027. You can contact me using the links above, or check out my [portfolio](https://omar-dahman.github.io/portfolio)!
+I am looking for a 4-month internship starting in May 2027. You can contact me using the links above, or check out my [portfolio](https://omar-dahman.github.io/portfolio)!
 
 ---
 
-### 🛠️ Technical Skills
-
-*   **Programming Languages:** <br>
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-    ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) 
-    ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) 
-    ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) 
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-    ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white)
-
-*   **Web Development & Tools:** <br>
-    ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
-    ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) 
-    ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) 
-    ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
 Last Edited on : 10/08/2026
