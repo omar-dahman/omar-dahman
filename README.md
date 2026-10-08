@@ -12,10 +12,10 @@
   </a>
 </p>
 
-<!-- Animation Typing SVG en gras -->
-<p align="left">
+<!-- Animation Typing SVG centrée et élargie -->
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1000&color=0310D7E1&background=1763FF00&vCenter=true&width=500&height=46&lines=Engineering+student+at+ENSIIE;Passionate+about+AI+in+healthcare;Looking+for+an+internship+in+2027" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1000&color=0310D7E1&background=1763FF00&center=true&vCenter=true&width=850&height=50&lines=Engineering+student+at+ENSIIE;Passionate+about+AI+in+healthcare;Looking+for+an+internship+in+2027" alt="Typing SVG" />
   </a>
 </p>
 
