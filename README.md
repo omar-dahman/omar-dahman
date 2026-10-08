@@ -14,7 +14,7 @@
 
 <!-- Animation Typing SVG -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0077B5&width=600&lines=Engineering+student+at+ENSIIE;Passionate+about+AI+in+healthcare;Looking+for+an+internship+in+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=27&duration=3000&pause=1000&color=238827&background=1763FF00&vCenter=true&width=500&height=46&lines=Engineering+student+at+ENSIIE;Passionate+about+AI+in+healthcare;Looking+for+an+internship+in+2027" alt="Typing SVG" />
 </p>
 
 Welcome to my GitHub profile! I am an engineering student at [ENSIIE](https://www.ensiie.fr/). I love Applied Mathematics, Computer Science, and Artificial Intelligence. **I am especially passionate about using AI in healthcare.**
