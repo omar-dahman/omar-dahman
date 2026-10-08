@@ -12,9 +12,9 @@
   </a>
 </p>
 
-Welcome to my GitHub profile! I am an engineering student at ENSIIE. I love Applied Mathematics, Computer Science, and Artificial Intelligence. **I am especially passionate about using AI in healthcare.**
+Welcome to my GitHub profile! I am an engineering student at [ENSIIE](https://www.ensiie.fr/). I love Applied Mathematics, Computer Science, and Artificial Intelligence. **I am especially passionate about using AI in healthcare.**
 
-I am looking for a 4-month internship starting in May 2027. You can contact me using the links above, or check out my [portfolio](https://omar-dahman.github.io/portfolio)!
+I am looking for a 3 to 4-month internship starting in May 2027. You can contact me using the links above, or check out my [portfolio](https://omar-dahman.github.io/portfolio)!
 
 ---
 
